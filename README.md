@@ -5,11 +5,12 @@ This project is a Twitter sentiment analysis tool that allows you to analyze the
 # Getting Started
 
 To get started with this project, you'll need to install the following dependencies:
-Python 3.x
-tweepy
-TextBlob
-matplotlib
-pandas
+
+#### Python 3.x
+#### tweepy
+#### TextBlob
+#### matplotlib
+#### pandas
 
 You'll also need to create a Twitter Developer account and obtain your API keys and access tokens. You can do this by following the instructions on the Twitter Developer Portal.
 
